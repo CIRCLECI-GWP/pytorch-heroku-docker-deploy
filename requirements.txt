@@ -1,0 +1,6 @@
+Flask
+torchvision==0.14.0
+requests
+torch==1.13
+gunicorn
+pytest-docker
