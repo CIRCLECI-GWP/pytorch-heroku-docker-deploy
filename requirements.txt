@@ -1,6 +1,6 @@
 Flask
-torchvision==0.14.0
+torchvision==0.16
 requests
-torch==1.13
+torch==2.1
 gunicorn
 pytest-docker
